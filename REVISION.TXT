@@ -1,0 +1,6 @@
+---------------------------------------------------------------------
+Rev. 1.0.0 - 2015-07-02
+* Initial release
+* Forked from JKingweb/DrUUID (https://github.com/JKingweb/DrUUID) 
+* Added composer
+---------------------------------------------------------------------

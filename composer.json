@@ -1,0 +1,31 @@
+{
+  "name": "jking.mirror/druuid",
+  "type": "library",
+  "description": "RFC 4122, Universally Unique IDentifier (UUID) URN Namespace.",
+  "keywords": ["RFC4122", "UUID"],
+  "homepage": "http://jkingweb.ca/code/php/lib.uuid/",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "J. King",
+      "homepage": "http://jkingweb.ca/",
+      "role": "Developer"
+    },
+    {
+      "name": "A. Grandt",
+      "email": "php@grandt.com",
+      "homepage": "http://grandt.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.1.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/lib.uuid.php"
+    ]
+  }
+}
